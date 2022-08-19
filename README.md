@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CalvinLanger
-- 👀 I’m interested in new technology, cybersecurity, car's, travel's
-- 🌱 I’m currently learning python, javascript, linux
+- 👀 I’m interested in new technology, cybersecurity, car's, travel's, psychology
 - 💞️ I’m looking to start new job
 - 📫 How to reach me: calvin.langerr@gmail.com
 
