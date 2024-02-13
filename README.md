@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Bartlomiej Harasim
 - 👀 I’m interested in new technology, cybersecurity, car's, travel's, psychology
 - 📫 How to reach me: calvin.langerr@gmail.com
 
